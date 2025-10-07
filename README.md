@@ -1,1 +1,3 @@
 # ProyectoColaborativo
+
+Solucionando conflictos
